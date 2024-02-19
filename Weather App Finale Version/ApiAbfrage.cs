@@ -21,7 +21,7 @@ namespace Weather_App
         public async Task<string> GetWetterdaten(string stadt)
         {
 
-            string apiKey = "2d6f3e8f5a9deb9b0b4d72581eddb144";
+            string apiKey = "000000000000000000000000000000000"; #Hier muss ein eigener API Key eingetragen werden
             string url = $"http://api.openweathermap.org/data/2.5/forecast?q={stadt}&lang=de&appid={apiKey}&units=metric";
         
 
