@@ -1,0 +1,164 @@
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App label test\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App 5 tagesabfrage  Großßßßß test - Kopie\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.exe.config
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.pdb
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\MainWindow.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\App.g.cs
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App_MarkupCompile.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App_MarkupCompile.lref
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\MainWindow.baml
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.g.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.CopyComplete
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.exe
+C:\Development\Hauptmaßnahme\Programmieren Lange\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.pdb
+D:\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.exe.config
+D:\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.exe
+D:\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Weather App.pdb
+D:\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Newtonsoft.Json.dll
+D:\Programmier Programme\C#\Weather App Finale Version\bin\Debug\Newtonsoft.Json.xml
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.AssemblyReference.cache
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\MainWindow.g.cs
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\App.g.cs
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App_MarkupCompile.cache
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App_MarkupCompile.lref
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\MainWindow.baml
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.g.resources
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather_App.Properties.Resources.resources
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.GenerateResource.cache
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather .E39BF7C3.Up2Date
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.exe
+D:\Programmier Programme\C#\Weather App Finale Version\obj\Debug\Weather App.pdb
